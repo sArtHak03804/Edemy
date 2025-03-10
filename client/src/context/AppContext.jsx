@@ -174,7 +174,6 @@ export const AppContextProvider = (props)=>{
         ,fetchUserEnrolledCourses, setEnrolledCourses,enrolledCourses,backendUrl, userData, setUserData, getToken, fetchAllCourses
 
     }
-    console.log("Backend URL:", backendUrl);
 
 
     return (
