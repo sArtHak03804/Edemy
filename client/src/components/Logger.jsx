@@ -12,8 +12,8 @@ export default function Logger() {
 					"content-type": "application/json",
 				},
 				body: JSON.stringify({
-					clientSecret: "d34314a1-ef9e-46e9-85c1-0d75e48b5325",
-					applicationId: "e7d77b0a-e665-4686-a17f-e7e633aec624",
+					clientSecret: "a67430f9-65c0-45ed-b22c-f7aae595516f",
+					applicationId: "b78d726b-6e7e-47ff-a80f-6ea97bf171cc",
 				}),
 			};
 			const res = await fetch(
