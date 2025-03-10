@@ -155,15 +155,15 @@ export const AppContextProvider = (props)=>{
     },[])
 
 
-    // const logToken = async ()=>{
-    //     console.log(await getToken());
+    const logToken = async ()=>{
+        console.log(await getToken());
         
-    // }
+    }
 
     useEffect(()=>{
         if(user){
             fetchUserData()
-            // logToken()
+            logToken()
             fetchUserEnrolledCourses()
         }
     },[user])
@@ -174,6 +174,7 @@ export const AppContextProvider = (props)=>{
         ,fetchUserEnrolledCourses, setEnrolledCourses,enrolledCourses,backendUrl, userData, setUserData, getToken, fetchAllCourses
 
     }
+    console.log("Backend URL:", backendUrl);
 
 
     return (
