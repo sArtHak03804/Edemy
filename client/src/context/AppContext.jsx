@@ -154,11 +154,11 @@ export const AppContextProvider = (props)=>{
 
     },[])
 
-
-    const logToken = async ()=>{
-        console.log(await getToken());
-        
-    }
+    const logToken = async () => {
+        const token = await getToken();
+        console.log("Sanitized Token:", token);
+    };
+    
 
     useEffect(()=>{
         if(user){
