@@ -195,7 +195,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🎯 Contributors
 
-👤 **Gyan Pratap Singh** – *Developer & Maintainer*  
+👤 **Sarthak Patel** – *Developer & Maintainer*  
 📧 Contact: [patelsarthak666gmail.com](mailto:patelsarthak666@gmail.com)  
 🔗 GitHub: [@sArtHak03804](https://github.com/sArtHak03804)  
 
@@ -206,7 +206,7 @@ Contact Us:  📲<a href="https://wa.me/917777977918?text=Hey%20%F0%9F%91%8B%2C%
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
 
-- **Name**: Gyan Pratap Singh
+- **Name**: Sarthak Patel
 - **Email**: [patelsarthak666gmail.com](mailto:patelsarthak666@gmail.com)
 - **GitHub**: [Sarthak Patel](https://github.com/sArtHak03804)
 
