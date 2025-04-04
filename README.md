@@ -221,7 +221,7 @@ Contact Us:  📲<a href="https://wa.me/917777977918?text=Hey%20%F0%9F%91%8B%2C%
 Give a ⭐ if you like this project!
 
 ---
-Made with ❤️ by Gyan Pratap Singh
+Made with ❤️ by Sarthak Patel 
 
 ### ⭐ Show Some Love!
 
